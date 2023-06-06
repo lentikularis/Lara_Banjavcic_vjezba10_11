@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+    color: rgb(221, 221, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    line-height: 18px;
+    width: 600px;
+    background-color: rgb(66, 70, 101);
+    padding: 20px;
+ }
+  .paragraf_2 {color: rgb(206, 239, 247); background-color: rgba(155, 178, 255, 0.5);} 
+  .novi_blok {
+      background-color: rgba(182, 232, 255, 0.6);
+      padding: 20px;
+      margin: 20px;
+      width: 50%;
+}
+ h1, h2  {
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: rgb(62, 83, 169);
+ }
+
+ span{color: rgb(43, 195, 206);}
+body {
+    background-image: url(slike\ svemira/background.jpg);
+}
+
+ a:link {
+    color: black;
+    background-color: white;
+    padding: 5px;
+    line-height: 40px;
+    border: 1px solid #000000;
+}
+ a:hover {
+    background-color: rgb(190, 186, 234);
+ }
+ img  {
+    height: 200px;
+ }
